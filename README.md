@@ -1,6 +1,15 @@
 # fooderlich
 
-A new Flutter project.
+As you know, everything in Flutter is a widget. But how do you know which widget to
+use when? In this chapter, you’ll explore three categories of basic widgets, which you
+can use for:
+• Structure and navigation
+• Displaying information
+• Positioning widgets
+By the end of this chapter, you’ll use those different types of widgets to build the
+foundation of an app called Fooderlich, a social recipe app. You’ll build out the app’s
+structure and learn how to create three different recipe cards: the main recipe card,
+an author card and an explore card.
 
 ## Getting Started
 
