@@ -53,6 +53,7 @@ class _AuthorCardState extends State<AuthorCard> {
                                 ),
                               ],
                             ),
+                // toggle IconButton
                 IconButton(
 // 1
                   icon: Icon(_isFavorited ? Icons.favorite :
